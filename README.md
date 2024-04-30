@@ -1,2 +1,2 @@
 # dio-trilha-java-b
-Remembering some stuff.
+Exercícios realizados durante o Bootcamp Santander 2024 - Backend com Java
